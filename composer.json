@@ -1,0 +1,17 @@
+{
+  "name": "web136/one_process",
+  "description": "Launch script in one instance (cli, cron, etc.)",
+  "version": "0.0.1",
+  "keywords": [
+    "CLI"
+  ],
+  "license": "Unlicense",
+  "autoload": {
+    "psr-4": {
+      "web136\\one_process\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.0"
+  }
+}
