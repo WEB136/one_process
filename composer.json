@@ -1,7 +1,7 @@
 {
   "name": "web136/one_process",
   "description": "Launch script in one instance (cli, cron, etc.)",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "keywords": [
     "CLI"
   ],
